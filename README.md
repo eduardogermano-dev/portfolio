@@ -1,9 +1,9 @@
 # 👨‍💻 Meu Portfólio | My Portfolio
 
-🇺🇸 **English:**
+**English:**
 Welcome to my personal portfolio repository! This project was built to showcase my journey as a Front-End Developer and Systems Analysis and Development (ADS) student. Here you will find my main projects, including a login page structure, built to practice and improve my skills.
 
-🇧🇷 **Português:**
+**Português:**
 Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi construído para demonstrar minha jornada como Desenvolvedor Front-End e estudante de Análise e Desenvolvimento de Sistemas (ADS). Aqui você encontrará meus principais projetos, incluindo uma estrutura de tela de login, desenvolvidos para praticar e aprimorar minhas habilidades.
 
 ## 🚀 Tecnologias Utilizadas | Technologies
